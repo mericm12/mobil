@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Meriç Madanoglu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="studentName">İsmi: %s</string>
+    <string name="studentAge">Yaşı: %s</string>
+    <string name="studentNumber">Numarası: %s</string>
+    <string name="unknown">Bilinmiyor...</string>
+    <string name="nointernet">Internet Yok!</string>
+    <string name="about">Hakkımda</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="my_name">Meriç Madanoğlu</string>
+    <string name="my_number">191030071</string>
+    <string name="my_future">İleride meslek hayatıma web yazılım ile devam etmek ve daha fazla yazılım dili öğrenerek firmalara hizmet vermek istiyorum.</string>
+    <string name="my_now">Merhaba adım Meriç. Bilgisayar programcılığı 2. Sınıf öğrencisiyim. Şuanda web yazılım alanında freelance olarak hizmet vermekteyim. Genellikle PHP yazılım dili ile kurumsal ve e-ticaret script yazılımları yapmaktayım. Bunun yanı sıra 2 adet e-ticaret sitem bulunmakta.</string>
+</resources>
